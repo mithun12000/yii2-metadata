@@ -1,4 +1,4 @@
-<?
+<?php
 /**
 * Metadata Helps to get metadata about models,controllers and actions in application* 
 * 
@@ -18,7 +18,12 @@
 * @license BSD   
 */
 
-class Metadata extends CApplicationComponent {
+namespace yii\metadata;
+
+use Yii;
+use yii\base\Component;
+
+class Metadata extends Component {
 
     /**
     * Get all information about application
