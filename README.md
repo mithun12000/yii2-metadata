@@ -1,4 +1,4 @@
 yii2-metadata
 =============
 
-Meta data provider for Yii2 created from http://code.google.com/p/yiimetadata/downloads/detail?name=Metadata.php
+Meta data provider for Yii2 created from https://github.com/mdmsoft/yii2-admin/blob/master/components/AccessHelper.php
