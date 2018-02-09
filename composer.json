@@ -10,7 +10,7 @@
 	"component"
   ],
   "type": "yii2-extension",
-  "license": "GPLv2",
+  "license": "MIT",
   "support": {
     "issues": "https://github.com/mithun12000/yii2-metadata/issues?page=1&state=open",
     "source": "https://github.com/mithun12000/yii2-metadata"
